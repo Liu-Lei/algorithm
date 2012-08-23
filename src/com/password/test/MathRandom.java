@@ -5,7 +5,7 @@ import com.util.Print;
 public class MathRandom {
 
 	/**
-	 * @param args
+	 * math .random
 	 */
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
